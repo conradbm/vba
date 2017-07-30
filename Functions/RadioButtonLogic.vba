@@ -1,3 +1,8 @@
+'
+' Author: Blake Conrad
+' Purpose: Clear all textboxes in an Access Form
+' Resource: http://www.fontstuff.com/access/acctut18.htm
+'
 Private Sub optAnd_Click()
     If Me.optAnd.Value = True Then
         Me.optOr.Value = False
