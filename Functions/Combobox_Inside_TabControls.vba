@@ -1,3 +1,10 @@
+'
+' Author: Blake Conrad
+' Resources: 
+' 1. http://www.fmsinc.com/microsoftaccess/Forms/tabs/index.html
+' 2. https://msdn.microsoft.com/en-us/library/bb243813(v=office.12).aspx
+'
+
 Private Sub getComboBoxInsideTabControl()
     
     Dim selectedPage As Page
